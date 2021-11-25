@@ -2,6 +2,7 @@ import path from "path"
 import { GeneratorConfig } from "grit-cli"
 
 export = {
+	
   prompts() {
     return [
       {

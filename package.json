@@ -1,7 +1,7 @@
 {
 	"name": "grit-nm",
 	"version": "0.0.1",
-	"description": "my awesome new Grit generator",
+	"description": "Build ready-to-deploy node modules",
 	"repository": {
 		"url": "TimCrooker/grit-nm",
 		"type": "git"
@@ -27,8 +27,8 @@
 		"@babel/preset-env": "^7.16.0",
 		"@babel/preset-typescript": "^7.16.0",
 		"@types/jest": "^27.0.2",
+		"grit-cli": "^0.2.11",
 		"jest": "^27.3.1",
-		"grit-cli": "^0.0.2",
 		"typescript": "^4.4.4"
 	}
 }
